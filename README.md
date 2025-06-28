@@ -59,11 +59,11 @@ Handle webhook events and update booking/payment statuses accordingly.
 
 # Technology Stack
 
-#Database Design
+# Database Design
 
-#Feature Breakdown
+# Feature Breakdown
 
-#API Security
+# API Security
 
-#CI/CD Pipeline
+# CI/CD Pipeline
 
