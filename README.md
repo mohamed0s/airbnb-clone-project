@@ -57,3 +57,13 @@ Ensure compliance with PCI-DSS and handle transaction validation.
 
 Handle webhook events and update booking/payment statuses accordingly.
 
+# Technology Stack
+
+#Database Design
+
+#Feature Breakdown
+
+#API Security
+
+#CI/CD Pipeline
+
